@@ -10,7 +10,7 @@ import macbookProImage from '../images/MacBook Pro.jpg';
 import acerNitro5Image from '../images/Portatil Acer Nitro 5.jpg';
 import dellInspironImage from '../images/Computadora de escritorio Dell Inspiron.jpg';
 import gamingPCImage from '../images/PC para juegos.jpg';
-import imacImage from '../images/accesorios.jpg';
+import imacImage from '../images/CamisetaAzul.jpg';
 import samsungMonitorImage from '../images/Monitor Samsung de 24.jpg';
 import lgUltraWideImage from '../images/Monitor LG UltraWide.jpg';
 import ultraGearMonitorImage from '../images/Monitor Gamer UltraGear.jpg';
